@@ -1,6 +1,0 @@
-AzureUserName= odl_user_1659258@multiaccounthackslabs100017.onmicrosoft.com
-AzurePassword= ugab95WUY*na
-AzureTenantID= 31eee2d7-ec55-4541-902b-d7a5728cd922
-AzureSubscriptionID= 9385c115-20fd-4632-b41d-da243c5a5e15
-DeploymentID= 1659258
-
